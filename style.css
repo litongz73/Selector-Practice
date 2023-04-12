@@ -1,0 +1,13 @@
+h1,
+h2 {
+  font-family: Lato;
+}
+
+.selector {
+  width: 200px;
+  height: 40px;
+  font-size: 16px;
+  font-family: Lato;
+  font-weight: bolder;
+  text-align: center;
+}
